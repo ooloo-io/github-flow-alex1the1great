@@ -25,4 +25,5 @@ body {
 .content {
   width: 720px;
   margin: auto;
+  max-width: 100%;
 }
